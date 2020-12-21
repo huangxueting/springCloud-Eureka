@@ -9,9 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hand</groupId>
-	<artifactId>demo-eureka</artifactId>
+	<artifactId>springCloud-Eureka</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo-eureka</name>
+	<name>springCloud-Eureka</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
