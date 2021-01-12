@@ -5,5 +5,6 @@ public class Demo {
         System.out.println("args = " + args);
         System.out.println("haha");
         System.out.println("hehe");
+        System.out.println("hiahia");
     }
 }
